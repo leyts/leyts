@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Leyts
+- 👋 Hi, I’m @leyts
 - 👀 I’m interested in Python, SQL, self-hosting, home automation, home lab, Docker and Raspberry Pi projects
